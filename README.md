@@ -25,7 +25,7 @@ pip install face-recognition opencv-python numpy pillow tkinter
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FaceRecognition.git
+git clone https://github.com/nishant-codess/FaceRecognition.git
 cd FaceRecognition
 ```
 
@@ -33,7 +33,7 @@ cd FaceRecognition
 
 3. Run the script:
 ```bash
-python face_recognition_gui.py
+python main.py
 ```
 
 4. Use the GUI to open the camera and start recognizing faces.
@@ -42,7 +42,7 @@ python face_recognition_gui.py
 ```
 FaceRecognition/
 │-- images/                 # Folder to store known faces
-│-- face_recognition_gui.py # Main script
+│-- main.py # Main script
 │-- README.md               # Project documentation
 ```
 
@@ -54,4 +54,3 @@ This project is open-source and available under the MIT License.
 
 ## Credits
 Developed by **Nishant Ranjan & Nidhi Nayana**.
-
